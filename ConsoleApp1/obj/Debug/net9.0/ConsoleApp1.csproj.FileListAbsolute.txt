@@ -12,3 +12,4 @@ C:\Users\lbajor\Nextcloud\Dokumenty\Kod\Microsoft Applied Skills CSharp\ConsoleA
 C:\Users\lbajor\Nextcloud\Dokumenty\Kod\Microsoft Applied Skills CSharp\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 C:\Users\lbajor\Nextcloud\Dokumenty\Kod\Microsoft Applied Skills CSharp\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\lbajor\Nextcloud\Dokumenty\Kod\Microsoft Applied Skills CSharp\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\Users\lbajor\Nextcloud\Dokumenty\Kod\Microsoft Applied Skills CSharp\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
