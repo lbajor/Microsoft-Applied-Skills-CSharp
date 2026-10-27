@@ -1,9 +1,7 @@
 ﻿using ConsoleApp1;
 
-
- string firstName = "Tim";
- string lastName = "Shao";
- string customerIdNumber = "1010101010";
+string firstName = "Tim";
+string lastName = "Shao";
 
 BankCustomer customer1 = new BankCustomer();
 
@@ -12,8 +10,7 @@ BankCustomer customer2 = new BankCustomer(firstName, lastName);
  
 firstName = "Sandy";
 lastName = "Zoeng";
-customerIdNumber = "2020202020";
-BankCustomer customer3 = new BankCustomer(firstName, lastName, customerIdNumber);
+BankCustomer customer3 = new BankCustomer(firstName, lastName);
 
 
 Console.WriteLine($"BankCustomer 1: {customer1.FirstName} {customer1.LastName} {customer1.CustomerId}");
